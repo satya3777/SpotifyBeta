@@ -4,14 +4,15 @@ v-music is a web application that allows users to search for music using the Spo
 
 ## Installation
 
-To run this project locally, follow these steps:
+To run this project follow these steps:
 
 1. Install dependencies using `npm install`
 2. Start the development server using `npm start`
+3. npm run start
 
 ## Usage
 
-Once the development server is running, you can access the app by visiting http://localhost:3000 in your web browser. Here's how to use the app:
+Once the development server is running, you can access the app by visiting http://localhost:5000 in your web browser. Here's how to use the app:
 
 1. Enter a search term in the search bar and click the "Search" button
 2. The app will fetch a list of tracks from the Spotify API and display them in a grid
